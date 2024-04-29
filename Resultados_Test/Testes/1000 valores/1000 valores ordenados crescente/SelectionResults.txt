@@ -1,0 +1,4 @@
+Resultados da análise:
+Tempo de execucao: 0.002000000000000
+Trocas: 0
+Comparacoes: 499500

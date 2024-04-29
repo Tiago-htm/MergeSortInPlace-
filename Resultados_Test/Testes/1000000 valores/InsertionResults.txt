@@ -1,0 +1,28 @@
+Resultados 1:
+Tempo de execucao: 565.443999999999960
+Trocas: 999999.000000
+Comparacoes: 821733008.000000
+
+Resultados 2:
+Tempo de execucao: 567.698999999999960
+Trocas: 999999.000000
+Comparacoes: 1103519812.000000
+
+Resultados 3:
+Tempo de execucao: 571.341999999999980
+Trocas: 999999.000000
+Comparacoes: 773837154.000000
+
+Resultados 4:
+Tempo de execucao: 578.865000000000010
+Trocas: 999999.000000
+Comparacoes: 846366887.000000
+
+Resultados 5:
+Tempo de execucao: 563.994000000000030
+Trocas: 999999.000000
+Comparacoes: 780297676.000000
+
+Media tempo de execucao: 569.468800000000100
+Media trocas: 999999.000000000000000
+Media comparacoes: 865150907.400000
